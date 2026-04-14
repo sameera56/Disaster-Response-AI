@@ -1,2 +1,2 @@
-# Disaster-Response-AI
-Machine learning-based disaster preparedness and response platform that predicts risk, identifies likely disasters, and provides actionable emergency guidance.
+# JupyterChart
+This directory contains the JavaScript portion of the Altair `JupyterChart`. The `JupyterChart` is based on the [AnyWidget](https://anywidget.dev/) project.
